@@ -7,7 +7,7 @@ This project focuses on visualizing sales data using Tableau to uncover patterns
 Data-Visualization-Tableau/
 │
 ├── data/
-│ └── train.csv # Dataset used
+│ └── train.csv
 │
 ├── tableau/
 │ └── SalesDashboard.twbx
