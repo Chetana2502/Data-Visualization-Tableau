@@ -28,7 +28,6 @@ Data-Visualization-Tableau/
 
 ## 📷 Dashboard Preview
  <img width="649" height="799" alt="image" src="https://github.com/user-attachments/assets/0513bebc-f017-40fc-a908-e2167fd9ef3f" />
-![Dashboard]
 
 ## 🚀 How to Use
 1. Open `train.csv` from the **data/** folder to explore the raw dataset.  
